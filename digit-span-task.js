@@ -116,9 +116,6 @@ async function showParticipantDialog() {
                     <strong>Last 3 letters of mother's maiden name + birthday + month</strong><br>
                     Example: If your mother's maiden name ends with "HTA", your birthday is 24th October → <strong>HTA2410</strong>
                 </div>
-                <div style="margin-top: 8px; font-style: italic; color: #7d5d23;">
-                    Use the participant ID you created in the Qualtrics survey
-                </div>
             </div>
 
             <div style="margin-bottom: 20px;">
