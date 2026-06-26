@@ -2,6 +2,14 @@
 
 A browser-based **Digit Span Task** implemented in **JavaScript** using **PsychoJS**, designed for online cognitive psychology experiments and deployment through **Pavlovia**.
 
+## Online Demo
+
+The experiment is fully hosted online and can be accessed directly via Pavlovia:
+
+👉 [Start the Digit Span Task](https://run.pavlovia.org/cayden144/digit-span-task-js-pavlovia)
+
+Please use a desktop browser for the best experience.
+
 ---
 
 ## 📖 Overview
