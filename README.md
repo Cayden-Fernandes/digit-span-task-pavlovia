@@ -1,5 +1,5 @@
 ````markdown
-# Digit Span Task (JavaScript + Pavlovia)
+# Digit Span Task JavaScript + Pavlovia
 
 A browser-based **Digit Span Task** implemented in **JavaScript** using **PsychoJS**, designed for online cognitive psychology experiments and deployment through **Pavlovia**.
 
@@ -77,13 +77,11 @@ Each trial stores:
 
 ## 📂 Project Structure
 
-```text
+```plaintext
 digit-span-task-js-pavlovia/
 │
 ├── digit-span-task.js      # Main experiment logic
 ├── index.html              # Entry point
-├── lib/                    # PsychoJS library
-├── resources/              # Optional resources
 └── README.md
 ````
 
