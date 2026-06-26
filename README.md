@@ -77,7 +77,6 @@ Each trial stores:
 ````markdown
 ## 📂 Project Structure
 
-```text
 digit-span-task-js-pavlovia/
 │
 ├── digit-span-task.js      # Main experiment logic
@@ -203,5 +202,4 @@ You are free to use, modify, and distribute this project for educational and res
 * Pavlovia
 * Open-source JavaScript community
 
-```
-```
+
